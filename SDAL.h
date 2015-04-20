@@ -1,3 +1,7 @@
+//Author: Kenan Tarik Tufekci
+//Date: 04/20/2015
+//SDAL
+
 #ifndef _SDAL_H_
 #define _SDAL_H_
 #include <iostream>
