@@ -8,10 +8,7 @@
 #include "catch.h"
 #include <iostream>
 #include <stdexcept>
-#include "PSLL.h"
 #include "SDAL.h"
-#include "SSLL.h"
-#include "CDAL.h"
 
 
 //Helper Functions compares two elements of type T
